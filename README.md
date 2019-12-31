@@ -1,4 +1,5 @@
 # Entropy_code
 A summary of entropy matlab codes.
-the codes are testing now, wait for the further update.
-Stil explore how to use GitHub...
+These codes have been tested by yang on December 31 2019.
+If there are any other questions, please don't hesitate to contact me.
+e-mail: yangyuantaohit@gmail.com
